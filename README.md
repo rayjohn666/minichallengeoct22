@@ -13,7 +13,7 @@ Refactored and improved function of html code so that links at the Heriseon home
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Installation](you can request to pull directly from my Github, [github.com/rayjohnn666] )
-- [Usage](#usage)
+- [Usage] The featured homepage of "Heriseon" has a few features such as links to images with descriptions about what it is that they offer. This is an educational webpage project with just a few limited features.
 - [Credits][https://github.com/coding-boot-camp/urban-octo-telegram/commit/f24166b618761b050c306c7bd603a280b4f1ac97]
 - [License](MIT license)
 
